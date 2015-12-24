@@ -3,9 +3,13 @@
 
 # But not these files...
 !.gitignore
+#stuffs
+!LICENSE
+!README.md
+
+#Actual files
 !bibdb.bib
 !*.tex
-# etc...
 
 # ...even if they are in subdirectories
 !*/
